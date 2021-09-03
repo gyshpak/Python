@@ -16,6 +16,3 @@ if len(input_number) == 4:
 
 else:
     print("Try again to enter a 4-digit number \n")
-
-
-        
